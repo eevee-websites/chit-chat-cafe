@@ -1,0 +1,7 @@
+name: Chit Chat Cafe
+description: >
+  Excellent coffee, good food.
+color_profile: dark # options: light, dark, pink
+font_profile: futuristic # options: futuristic, rustic, cursive, formal
+accent_color: "#CB4033"
+permanent_nav_background: true
